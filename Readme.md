@@ -57,15 +57,15 @@
 <h3>3-ESPORTE:</h3>
 - Meu esporte favorito é o futebol, pois sempre tive afinidade com a prática do cooperativismo e competividade entre as equipes.
 <h4>4-VESTUÁRIO:</h4>
-- Gosto de roupas clássicas não tão chamativas ou estampadas com imagens e figuras, utilizo mais tênis na cor escura, calças jeans, de preferência com cores neutras ou escuras e camisetas sem muitos detalhes.
+- Gosto de roupas clássicas não tão chamativas ou estampadas com imagens e figuras. Utilizo mais tênis na cor escura, calças jeans(preferencialmente nas cores neutras ou escuras) e camisetas sem muitos detalhes.
 <h5>5-HOBBIES:</h5>
-- Pilotar motocicletas, se distrair com curiosidades na internet e ouvir música.
+- Pilotar motocicletas, distrair-se com curiosidades na internet e ouvir música.
 <h5>6-PERSONALIDADE:</h5>
 - Compreensivo, dedicado, honesto, respeituoso, paciente, analítico, tranquilo, responsável, leal, muito apegado com familiares.
 <h5>7-PREFERÊNCIA POR ÁREA ACADÊMICA:</h5>
 - Identifico-me com a área de exatas, ciências humanas e a de língua portuguesa.
 <h6>8-PREFERÊNCIA POR ANIMAIS:</h5>
-- Em relação a animais domésticos, gosto tanto de cachorros quanto de gatos, mas, pricipalmente de cachorros.
+- Em relação a animais domésticos, gosto tanto de cachorros quanto de gatos, mas pricipalmente de cachorros.
 <h6>9-CONTEÚDO ASSISTIDO NA INTERNET:</h5>
 - Durante o dia, prefiro jogar jogos de aprendizagem(Duolingo), videoaulas, vídeos curtos interativos, séries, redes sociais, músicas e noticiários.
 <h6>10-ATIVIDADES DO DIA A DIA:</h6>
